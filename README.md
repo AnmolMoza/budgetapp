@@ -23,5 +23,4 @@ If you want to download the code, hit the green button saying "Clone or download
 Pull requests are encouraged.
 
 
-
-
+!Architecture Model(https://github.com/AnmolMoza/budgetapp/blob/master/17a2514b-55c8-494a-9141-9886291de9dd.jpg?raw=true)
